@@ -8,16 +8,16 @@
   "devDependencies": {
     "tailwindcss": "^3.4.19"
   },
-  "main": "main.js",
+  "main": "script.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Oladipupobaliki21/Harytechs-Movie-Library.git"
+    "url": "git+https://github.com/Oladipupobaliki21/MovieFlix.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Oladipupobaliki21/Harytechs-Movie-Library/issues"
+    "url": "https://github.com/Oladipupobaliki21/MovieFlix/issues"
   },
-  "homepage": "https://github.com/Oladipupobaliki21/Harytechs-Movie-Library#readme"
+  "homepage": "https://github.com/Oladipupobaliki21/MovieFlix#readme"
 }
