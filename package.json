@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Movie search website using OMDB API",
   "scripts": {
-    "build-css": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+ "build": "tailwindcss -i ./input.css -o ./dist/output.css --minify"
+
   },
   "devDependencies": {
     "tailwindcss": "^3.4.19"
